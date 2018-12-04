@@ -15,6 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tupy.Logger.Providers.LiteD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6706F70E-003D-45D8-880B-03DAF3404395}"
 	ProjectSection(SolutionItems) = preProject
+		Tupy.Data\Tupy.Data.nuspec = Tupy.Data\Tupy.Data.nuspec
 		Tupy.Extensions\Tupy.Extensions.nuspec = Tupy.Extensions\Tupy.Extensions.nuspec
 		Tupy\Tupy.nuspec = Tupy\Tupy.nuspec
 	EndProjectSection
