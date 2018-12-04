@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Tupy\Tupy.nuspec = Tupy\Tupy.nuspec
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tupy.Data", "Tupy.Data\Tupy.Data.csproj", "{DB1435DA-26D6-475B-8706-3511F8FC01AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{37E2BAA9-2363-44A9-823D-7F2654FD712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37E2BAA9-2363-44A9-823D-7F2654FD712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37E2BAA9-2363-44A9-823D-7F2654FD712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB1435DA-26D6-475B-8706-3511F8FC01AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1435DA-26D6-475B-8706-3511F8FC01AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1435DA-26D6-475B-8706-3511F8FC01AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1435DA-26D6-475B-8706-3511F8FC01AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
