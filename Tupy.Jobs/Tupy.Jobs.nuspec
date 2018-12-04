@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Tupy.Jobs</id>
+    <version>1.0.1</version>
+    <title>Tupy</title>
+    <authors>geovanifg</authors>
+    <owners>geovanifg</owners>    
+    <projectUrl>https://github.com/geovanifg/Tupy.Jobs</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Classes for job management</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Jobs Tasks</tags>
+  </metadata>
+</package>

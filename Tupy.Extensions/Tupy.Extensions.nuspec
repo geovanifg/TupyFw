@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Tupy.Extensions</id>
+    <version>1.0.1</version>
+    <title>Tupy</title>
+    <authors>geovanifg</authors>
+    <owners>geovanifg</owners>    
+    <projectUrl>https://github.com/geovanifg/TupyFw</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Classes for acelerate development</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Extension Methods</tags>
+  </metadata>
+</package>
